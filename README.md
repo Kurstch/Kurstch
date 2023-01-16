@@ -20,11 +20,9 @@ I started learning software deleopement in late 2019.
 Currently I am working at [Datorium](https://datorium.eu/) as a core developer / maintainer of their Discord bot,
 but I sometimes also do freelance work.
 
-On the side, I am working on a Discord bot library for Rust
+On the side, I am working on a [Discord bot library](https://gitlab.com/discordinal/discordinal) for Rust
 
-You can also check out my ![GitLab][gitlab] account.
-
-[gitlab]: https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/manabitai
+You can also check out my [GitLab](https://gitlab.com/manabitai) account.
 
 #### Programming Languages
 
@@ -44,3 +42,7 @@ Learning:
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+Other:
+- Discord.js
+- Svelte
